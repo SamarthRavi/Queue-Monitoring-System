@@ -72,7 +72,11 @@ https://docs.google.com/spreadsheets/d/1SULF6syhELwztXRJF5DzXY4sNT9BfLpLMXSB0Ph2
 
 ## Dashboard Preview
 
-Screenshot available in this repository.
+![Dashboard](Dashboard.png)
+
+## Data Collection
+
+![Google Sheets](Google-sheets.png)
 
 ---
 
