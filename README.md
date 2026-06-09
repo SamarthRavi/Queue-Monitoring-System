@@ -66,7 +66,7 @@ https://queue-monitoring-system.vercel.app/dashboard
 
 ## Data Collection Sheet
 
-Google Sheets was used to store and manage queue monitoring data.
+https://docs.google.com/spreadsheets/d/1SULF6syhELwztXRJF5DzXY4sNT9BfLpLMXSB0Ph2XtQ/edit?usp=sharing
 
 ---
 
